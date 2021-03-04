@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+1. one
+1. two
+1. three
+
+
+- apple
+  - red
+  - white
+- appricot
+- peach
